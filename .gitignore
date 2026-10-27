@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors / temp
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.log
+.pytest_cache/
+
+# Local-only files
+.env
+*.docx
+~$*
